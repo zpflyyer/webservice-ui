@@ -1,0 +1,13 @@
+.Order {
+    text-align: center;
+    height: 100%;
+    margin-top: 5%;
+}
+
+.Order-Date-Label {
+    margin-bottom: 5%;
+    color: white;
+    background-color: deepskyblue;
+    padding: 5px;
+    text-align: center;
+}
